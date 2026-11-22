@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" DescendantCount="4">
+    <!-- saved from url=(0014)about:internet -->
+    <TocEntry Title="Printer Commands and Attributes User Guide" Link="/Content/Printer Commands and Attributes.htm" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="0" />
+    <TocEntry Title="Command and Attribute Format" Link="/Content/Command and Attribute Format.htm" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Command and Attribute JSON Reference" Link="/Content/Command and Attribute JSON Reference.htm" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Developer Resources and Support" Link="/Content/Developer Resources and Support.htm" ComputedFirstTopic="false" DescendantCount="0" />
+</CatapultToc>
